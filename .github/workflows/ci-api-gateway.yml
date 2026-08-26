@@ -1,0 +1,37 @@
+name: API Gateway CI/CD Pipeline
+
+on:
+  push:
+    paths:
+      - 'services/api-gateway/**'
+      - '.github/workflows/ci-api-gateway.yml'
+  pull_request:
+    paths:
+      - 'services/api-gateway/**'
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v4
+
+      - name: Configurar entorno de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f services/api-gateway/backend/requirements.txt ]; then pip install -r services/api-gateway/backend/requirements.txt; fi
+          pip install pytest flake8
+
+      - name: Verificación de código (Linter con flake8)
+        run: |
+          flake8 services/api-gateway/backend/app --count --select=E9,F63,F7,F82 --show-source --statistics
+
+      - name: Validar compilación de imagen Docker
+        run: |
+          docker build -t vocalsuite-api-gateway:ci ./services/api-gateway/backend

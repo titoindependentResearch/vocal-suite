@@ -1,0 +1,13 @@
+# Python / Entornos
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales de audio / salidas
+temp_outputs/
+temp_uploads/
+
+# IDE / Sistema
+.vscode/
+.DS_Store

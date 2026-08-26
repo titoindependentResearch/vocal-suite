@@ -1,0 +1,35 @@
+{
+  "folders": [
+    {
+      "name": "01 - Web Frontend (Svelte/PWA)",
+      "path": "apps/web-client"
+    },
+    {
+      "name": "02 - Core API & Orchestrator (FastAPI)",
+      "path": "services/api-gateway"
+    },
+    {
+      "name": "03 - Audio Engine & DSP (VoxKernel)",
+      "path": "services/vox-kernel"
+    },
+    {
+      "name": "04 - Vocal Coach AI Agent",
+      "path": "services/coach-agent"
+    },
+    {
+      "name": "05 - Infrastructure & DevOps",
+      "path": "deploy"
+    },
+    {
+      "name": "06 - Shared Schemas",
+      "path": "packages/shared-schemas"
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "/mnt/c/tito/VocalSuite/services/api-gateway/backend/.venv/bin/python",
+    "python.analysis.extraPaths": [
+      "/mnt/c/tito/VocalSuite/services/api-gateway/backend/.venv/lib/python3.12/site-packages",
+      "/mnt/c/tito/VocalSuite/services/api-gateway/backend"
+    ]
+  }
+}

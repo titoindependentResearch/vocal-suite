@@ -1,0 +1,27 @@
+from sqlalchemy.orm import Session
+from backend.app.models.user import Credit, CreditTransaction, TransactionType
+
+def deduct_user_credit(db: Session, user_id: int, amount: int = 1, description: str = "Aislamiento de voz") -> bool:
+    """
+    Intenta descontar créditos de forma segura con bloqueo de fila.
+    Retorna True si la operación fue exitosa, False si no hay crédito suficiente.
+    """
+    # Bloquea la fila del saldo para evitar condiciones de carrera
+    credit_record = db.query(Credit).filter(Credit.user_id == user_id).with_for_update().first()
+
+    if not credit_record or credit_record.balance < amount:
+        return False
+
+    # Descuenta saldo
+    credit_record.balance -= amount
+
+    # Registrar auditoría del consumo
+    tx = CreditTransaction(
+        user_id=user_id,
+        amount=-amount,
+        transaction_type=TransactionType.USAGE,
+        description=description
+    )
+    db.add(tx)
+    db.commit()
+    return True
