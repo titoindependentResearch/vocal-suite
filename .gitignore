@@ -1,13 +1,25 @@
-# Python / Entornos
+# Entornos virtuales y Python
+venv/
 .venv/
 __pycache__/
 *.py[cod]
-*$py.class
 
-# Archivos temporales de audio / salidas
-temp_outputs/
-temp_uploads/
+# Dependencias de Node / Frontend
+node_modules/
+.svelte-kit/
+build/
+dist/
 
-# IDE / Sistema
+# Archivos procesados y temporales pesados
+services/api-gateway/backend/processed/*
+!services/api-gateway/backend/processed/.gitkeep
+services/api-gateway/backend/separated/*
+!services/api-gateway/backend/separated/.gitkeep
+
+# Variables de entorno e IDEs
+.env
+.env.*
+!.env.example
 .vscode/
+.idea/
 .DS_Store

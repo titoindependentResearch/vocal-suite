@@ -1,0 +1,686 @@
+{
+    "song": "No Me Mires Más",
+    "artist": "Carlos El Grande",
+    "duration": 246.0,
+    "syllables": [
+        {
+            "start": 10.4,
+            "end": 11.24,
+            "text": "Tiene",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 11.24,
+            "end": 11.5,
+            "text": "tu",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 11.5,
+            "end": 11.96,
+            "text": "mirar",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 11.96,
+            "end": 12.38,
+            "text": "tan",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 12.9,
+            "end": 13.82,
+            "text": "rara",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 13.82,
+            "end": 14.04,
+            "text": "impresión",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 14.04,
+            "end": 14.32,
+            "text": "que",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 14.32,
+            "end": 15.96,
+            "text": "en",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 15.96,
+            "end": 16.34,
+            "text": "mi",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 16.34,
+            "end": 16.52,
+            "text": "corazón",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 16.52,
+            "end": 17.04,
+            "text": "cosa",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 17.04,
+            "end": 17.52,
+            "text": "buena",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 17.74,
+            "end": 18.06,
+            "text": "lo",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 18.06,
+            "end": 18.66,
+            "text": "quiero",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 18.66,
+            "end": 19.0,
+            "text": "grabar",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 19.0,
+            "end": 19.32,
+            "text": "Desde",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 19.32,
+            "end": 19.6,
+            "text": "que",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 19.6,
+            "end": 20.12,
+            "text": "te",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 21.34,
+            "end": 22.18,
+            "text": "vi",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 22.18,
+            "end": 22.4,
+            "text": "me",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 22.4,
+            "end": 23.06,
+            "text": "hice",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 23.06,
+            "end": 24.04,
+            "text": "la",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 24.04,
+            "end": 24.52,
+            "text": "ilusión",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 24.52,
+            "end": 25.64,
+            "text": "que",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 25.92,
+            "end": 26.72,
+            "text": "tu",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 26.72,
+            "end": 26.92,
+            "text": "corazón",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 26.92,
+            "end": 27.04,
+            "text": "cosa",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 27.04,
+            "end": 27.76,
+            "text": "buena",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 27.76,
+            "end": 28.4,
+            "text": "era",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 28.4,
+            "end": 29.24,
+            "text": "para",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 29.36,
+            "end": 29.78,
+            "text": "mi",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 29.78,
+            "end": 31.02,
+            "text": "Rosa",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 31.32,
+            "end": 31.92,
+            "text": "de",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 31.92,
+            "end": 32.22,
+            "text": "un",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 32.22,
+            "end": 32.66,
+            "text": "rosal",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 32.66,
+            "end": 33.06,
+            "text": "de",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 34.3,
+            "end": 34.52,
+            "text": "un",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 34.52,
+            "end": 34.74,
+            "text": "bello",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 34.74,
+            "end": 35.0,
+            "text": "vergel",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 35.0,
+            "end": 36.26,
+            "text": "yo",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 36.92,
+            "end": 37.04,
+            "text": "quiero",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 37.04,
+            "end": 37.24,
+            "text": "libar",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 37.24,
+            "end": 37.62,
+            "text": "cosa",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 37.62,
+            "end": 38.16,
+            "text": "buena",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 38.42,
+            "end": 38.76,
+            "text": "de",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 38.76,
+            "end": 39.34,
+            "text": "tu",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 39.34,
+            "end": 39.7,
+            "text": "rica",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 39.7,
+            "end": 39.98,
+            "text": "miel",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 39.98,
+            "end": 40.22,
+            "text": "Cosa",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 40.22,
+            "end": 40.86,
+            "text": "buena",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 40.86,
+            "end": 42.42,
+            "text": "que",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 42.42,
+            "end": 42.9,
+            "text": "no",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 42.9,
+            "end": 43.12,
+            "text": "me",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 43.12,
+            "end": 43.58,
+            "text": "mires",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 43.58,
+            "end": 44.68,
+            "text": "así",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 44.68,
+            "end": 45.2,
+            "text": "porque",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 45.2,
+            "end": 45.58,
+            "text": "tiene",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 45.58,
+            "end": 46.5,
+            "text": "tu",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 46.5,
+            "end": 47.42,
+            "text": "mirar",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 47.42,
+            "end": 47.68,
+            "text": "tan",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 47.68,
+            "end": 48.16,
+            "text": "rara",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 48.16,
+            "end": 49.14,
+            "text": "impresión",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 49.14,
+            "end": 49.8,
+            "text": "que",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 49.8,
+            "end": 50.24,
+            "text": "me",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 50.24,
+            "end": 50.62,
+            "text": "acelera",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 50.62,
+            "end": 51.72,
+            "text": "que",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 52.02,
+            "end": 52.58,
+            "text": "me",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 52.58,
+            "end": 52.94,
+            "text": "marchita",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 52.94,
+            "end": 53.38,
+            "text": "mi",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 53.38,
+            "end": 53.84,
+            "text": "corazón",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 54.28,
+            "end": 55.26,
+            "text": "yo",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 55.26,
+            "end": 55.48,
+            "text": "te",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 55.48,
+            "end": 55.74,
+            "text": "quiero",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 55.74,
+            "end": 57.34,
+            "text": "yo",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 57.68,
+            "end": 57.78,
+            "text": "te",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 57.78,
+            "end": 57.96,
+            "text": "adoro",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 57.96,
+            "end": 58.34,
+            "text": "ven",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 58.34,
+            "end": 58.94,
+            "text": "dame",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 59.2,
+            "end": 59.52,
+            "text": "tu",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 59.52,
+            "end": 60.02,
+            "text": "calor",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 60.02,
+            "end": 60.46,
+            "text": "oye",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 60.46,
+            "end": 60.74,
+            "text": "pero",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 60.74,
+            "end": 61.04,
+            "text": "que",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 61.04,
+            "end": 61.62,
+            "text": "rosa",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 61.62,
+            "end": 63.64,
+            "text": "tu",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 63.64,
+            "end": 63.96,
+            "text": "eres",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 63.96,
+            "end": 64.58,
+            "text": "de",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 64.58,
+            "end": 65.42,
+            "text": "un",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 65.42,
+            "end": 65.6,
+            "text": "lindo",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 65.6,
+            "end": 66.06,
+            "text": "rosal",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 66.06,
+            "end": 66.88,
+            "text": "contigo",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 68.1,
+            "end": 68.24,
+            "text": "yo",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 68.24,
+            "end": 68.68,
+            "text": "quiero",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 68.68,
+            "end": 69.38,
+            "text": "cantar",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 69.38,
+            "end": 69.92,
+            "text": "yo",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 69.92,
+            "end": 70.56,
+            "text": "quiero",
+            "note": "Auto",
+            "freq": 0.0
+        },
+        {
+            "start": 70.56,
+            "end": 70.86,
+            "text": "guarachar",
+            "note": "Auto",
+            "freq": 0.0
+        }
+    ]
+}
